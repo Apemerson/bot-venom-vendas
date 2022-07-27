@@ -20,7 +20,7 @@
   <img alt="endereco" title="endereco" src="./assets/endereco.png" />
   Resumo
   <img alt="resumo" title="resumo" src="./assets/resumo.png" />
-  Assistante
+  Assistente
   <img alt="Assistante" title="Assistante" src="./assets/assistante.png" />
 </h1>
 
