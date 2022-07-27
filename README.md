@@ -10,18 +10,18 @@
 <p align="center">🚀 Projeto criado com o intuito de auxiliar nas demandas de pedidos das empresas "Vendas" via WhatsApp.</p>
 <br>
 <h1 align="center">
-  Bem-Vindo
+  Bem Vindo
   <img alt="Bem-vindo" title="Bem-vindo" src="./assets/Bem-vindo.png" />
   Menu
   <img alt="Menu" title="Menu" src="./assets/menu.png" />
-  Order
-  <img alt="Order" title="Order" src="./assets/order.png" />
-  Address
-  <img alt="Address" title="Address" src="./assets/address.png" />
-  Bill
-  <img alt="Bill" title="Bill" src="./assets/bill.png" />
-  Assistant
-  <img alt="Assistant" title="Assistant" src="./assets/assistant.png" />
+  Pedido
+  <img alt="pedido" title="pedido" src="./assets/pedido.png" />
+  Endereço
+  <img alt="endereco" title="endereco" src="./assets/endereco.png" />
+  Resumo
+  <img alt="resumo" title="resumo" src="./assets/resumo.png" />
+  Assistante
+  <img alt="Assistante" title="Assistante" src="./assets/assistante.png" />
 </h1>
 
 ### Pré-requisitos
