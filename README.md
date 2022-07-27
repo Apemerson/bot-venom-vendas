@@ -10,7 +10,7 @@
 <p align="center">🚀 Projeto criado com o intuito de auxiliar nas demandas de pedidos das empresas "Vendas" via WhatsApp.</p>
 <br>
 <h1 align="center">
-  Welcome
+  Bem-Vindo
   <img alt="Bem-vindo" title="Bem-vindo" src="./assets/Bem-vindo.png" />
   Menu
   <img alt="Menu" title="Menu" src="./assets/menu.png" />
