@@ -11,7 +11,7 @@
 <br>
 <h1 align="center">
   Welcome
-  <img alt="Welcome" title="Welcome" src="./assets/welcome.png" />
+  <img alt="Bem-vindo" title="Bem-vindo" src="./assets/Bem-vindo.png" />
   Menu
   <img alt="Menu" title="Menu" src="./assets/menu.png" />
   Order
